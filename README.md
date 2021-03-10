@@ -1,6 +1,8 @@
 # Unique-visualization
 Unique visualization through plotly,seaborn,bookeh &amp; matplotlib
 
+Visualization or visualisation is any technique for creating images, diagrams, or animations to communicate a message. Visualization through visual imagery has been an effective way to communicate both abstract and concrete ideas since the dawn of humanity.
+
 ## About me
 
 **Piyush Pathak**
